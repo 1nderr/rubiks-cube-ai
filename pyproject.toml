@@ -1,0 +1,10 @@
+[project]
+name = "rubiks-cube-ai"
+version = "0.1.0"
+description = "Solves a 2x2 Rubik's cube with BFS, IDS, and A*"
+readme = "README.md"
+authors = [
+    { name = "1nder", email = "20195347+1nderr@users.noreply.github.com" }
+]
+requires-python = ">=3.9"
+dependencies = []

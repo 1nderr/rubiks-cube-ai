@@ -11,6 +11,7 @@ This is a program that can solve a 2x2 Rubik's cube using a variety of search me
 ## Dependencies
 
 - `python 3.9+`
+- [uv](https://docs.astral.sh/uv/)
 
 ## Results
 
